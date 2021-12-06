@@ -8,3 +8,4 @@ function greet(name) {
 }
 
 module.exports = greet;
+console.log(module);
